@@ -22,7 +22,14 @@ Fonts:
   Charity: Water Landing Page Styles
   This CSS uses the provided color palette and beginner-friendly styles.
 */
-
+header {
+  background-color: #000; /* Black background for the header */
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
 /* Set up the main font and background color for the whole page */
 body {
   background-color: #f4f8fb; /* Soft light blue for a fresh look */
