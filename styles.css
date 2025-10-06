@@ -23,7 +23,7 @@ Fonts:
   This CSS uses the provided color palette and beginner-friendly styles.
 */
 header {
-  background-color: #000; /* Black background for the header */
+  background-color: white; /* Black background for the header */
   padding: 1rem 2rem;
   display: flex;
   align-items: center;
