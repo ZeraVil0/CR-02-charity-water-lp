@@ -134,7 +134,7 @@ h2 {
 
 /* Change button color when hovered */
 .donate-button:hover {
-  background-color: #159A48; /* Dark Green */
+  background-color: #2E9DF7; /* Dark Green */
   transform: translateY(-2px) scale(1.04); /* Slight lift */
 }
 
